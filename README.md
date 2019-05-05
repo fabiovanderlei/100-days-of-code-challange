@@ -24,3 +24,10 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 **Thoughts:** I had troubles with tests for emails,tomorrow I still work in tests, I understood unit test x feature test.
 
 **Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1124560571930693632?s=20)
+
+### Day 3: May 05, 2019
+**Today's Progress**: I change my tests again, I added a validation in controller for input also fix my Vue component.
+
+**Thoughts:** I learned about validations, requests, custom messages on Laravel.
+
+**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1125133091943649281)
