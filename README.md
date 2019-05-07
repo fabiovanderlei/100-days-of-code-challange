@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ### Twitter posting
-[Day 0](https://twitter.com/FabioVanderlei/status/1124179851311747072?s=20) | [Day 1](https://twitter.com/FabioVanderlei/status/1124180160008396800?s=20) | [Day 2](https://twitter.com/FabioVanderlei/status/1124560571930693632?s=20)
+[Day 0](https://twitter.com/FabioVanderlei/status/1124179851311747072?s=20) | [Day 1](https://twitter.com/FabioVanderlei/status/1124180160008396800?s=20) | [Day 2](https://twitter.com/FabioVanderlei/status/1124560571930693632?s=20) | [Day 3](https://twitter.com/FabioVanderlei/status/1125133091943649281) | [Day 4](https://twitter.com/FabioVanderlei/status/1125592935133630465)
 
 
 ### Day 1: May 03, 2019
@@ -31,3 +31,10 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 **Thoughts:** I learned about validations, requests, custom messages on Laravel.
 
 **Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1125133091943649281)
+
+### Day 4: May 05, 2019
+**Today's Progress**: I changed the Vue component of the contact.
+
+**Thoughts:** I read about vue bind as v-if.
+
+**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1125592935133630465)
