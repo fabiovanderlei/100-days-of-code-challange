@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ### Twitter posting
-[Day 0](https://twitter.com/FabioVanderlei/status/1124179851311747072?s=20) | [Day 1](https://twitter.com/FabioVanderlei/status/1124180160008396800?s=20) | [Day 2](https://twitter.com/FabioVanderlei/status/1124560571930693632?s=20) | [Day 3](https://twitter.com/FabioVanderlei/status/1125133091943649281) | [Day 4](https://twitter.com/FabioVanderlei/status/1125592935133630465) | [Day 5](https://twitter.com/FabioVanderlei/status/1125804781421912065)
+[Day 0](https://twitter.com/FabioVanderlei/status/1124179851311747072?s=20) | [Day 1](https://twitter.com/FabioVanderlei/status/1124180160008396800?s=20) | [Day 2](https://twitter.com/FabioVanderlei/status/1124560571930693632?s=20) | [Day 3](https://twitter.com/FabioVanderlei/status/1125133091943649281) | [Day 4](https://twitter.com/FabioVanderlei/status/1125592935133630465) | [Day 5](https://twitter.com/FabioVanderlei/status/1125804781421912065) | [Day 6](https://twitter.com/FabioVanderlei/status/1126225947752005635) 
 
 
 ### Day 1: May 03, 2019
@@ -45,3 +45,10 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 **Thoughts:** I readed about Laravel's Custom Requests. I understood better Object.values(), Object.keys() and Object.map().
 
 **Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1125804781421912065)
+
+### Day 6: May 08, 2019
+**Today's Progress**: Today I wrote code to send new contacts to database, also i wrote test for this.
+
+**Thoughts:** I learned Laravel's tests for database.
+
+**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1126225947752005635)
