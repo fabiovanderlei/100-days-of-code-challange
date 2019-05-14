@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ### Twitter posting
-[Day 0](https://twitter.com/FabioVanderlei/status/1124179851311747072?s=20) | [Day 1](https://twitter.com/FabioVanderlei/status/1124180160008396800?s=20) | [Day 2](https://twitter.com/FabioVanderlei/status/1124560571930693632?s=20) | [Day 3](https://twitter.com/FabioVanderlei/status/1125133091943649281) | [Day 4](https://twitter.com/FabioVanderlei/status/1125592935133630465) | [Day 5](https://twitter.com/FabioVanderlei/status/1125804781421912065) | [Day 6](https://twitter.com/FabioVanderlei/status/1126225947752005635) | [Day 7](https://twitter.com/FabioVanderlei/status/1126565335501541381?s=20) | [Day 8](https://twitter.com/FabioVanderlei/status/1126696585159512064?s=20) 
+[Day 0](https://twitter.com/FabioVanderlei/status/1124179851311747072?s=20) | [Day 1](https://twitter.com/FabioVanderlei/status/1124180160008396800?s=20) | [Day 2](https://twitter.com/FabioVanderlei/status/1124560571930693632?s=20) | [Day 3](https://twitter.com/FabioVanderlei/status/1125133091943649281) | [Day 4](https://twitter.com/FabioVanderlei/status/1125592935133630465) | [Day 5](https://twitter.com/FabioVanderlei/status/1125804781421912065) | [Day 6](https://twitter.com/FabioVanderlei/status/1126225947752005635) | [Day 7](https://twitter.com/FabioVanderlei/status/1126565335501541381?s=20) | [Day 8](https://twitter.com/FabioVanderlei/status/1126696585159512064?s=20) | [Day 9](https://twitter.com/FabioVanderlei/status/1128128417923305472) 
 
 
 ### Day 1: May 03, 2019
@@ -66,3 +66,10 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 **Thoughts:** I readed Heroku documentation
 
 **Link to work:** [Link](https://site-fernando-campos.herokuapp.com/) [Log in Twitter](https://twitter.com/FabioVanderlei/status/1126696585159512064?s=20)
+
+### Day 9: May 13, 2019
+**Today's Progress**: Today I added video plyer on site;
+
+**Thoughts:** I readed bootstrap 4 documentation about videos.
+
+**Link to work:** [Link](https://site-fernando-campos.herokuapp.com/) [Log in Twitter](https://twitter.com/FabioVanderlei/status/1128128417923305472)
