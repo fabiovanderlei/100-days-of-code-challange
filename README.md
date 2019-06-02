@@ -85,7 +85,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 
 ## Attempt 2
 ### Twitter posting
-[Day 1](https://twitter.com/FabioVanderlei/status/1133969641804636160) 
+[Day 1](https://twitter.com/FabioVanderlei/status/1133969641804636160) | [Day 2](https://twitter.com/FabioVanderlei/status/1135071914416836609)
 
 ### Day 1: May 30, 2019
 **Today's Progress**: I changed the Firebase notification implementation. 
@@ -94,4 +94,10 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 
 **Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1133969641804636160)
 
+### Day 2: Jun 02, 2019
+**Today's Progress**: Today I worked on another project in it use Laravel (PHP) and Vue.js.
+Today I started cutting the PSD, I'm using Bootstrap. 
 
+**Thoughts:** [Laravel](https://laravel.com/) | [Bootstrap](https://getbootstrap.com/)
+
+**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1135071914416836609)
