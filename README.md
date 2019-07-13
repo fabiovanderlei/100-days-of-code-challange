@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ### Twitter posting
-[Day 1](https://twitter.com/FabioVanderlei/status/1148431575887093763) | [Day 2](https://twitter.com/FabioVanderlei/status/1148806745512435714) | [Day 3](https://twitter.com/FabioVanderlei/status/1149160032585551872)
+[Day 1](https://twitter.com/FabioVanderlei/status/1148431575887093763) | [Day 2](https://twitter.com/FabioVanderlei/status/1148806745512435714) | [Day 3](https://twitter.com/FabioVanderlei/status/1149160032585551872) | [Day 4](https://twitter.com/FabioVanderlei/status/1149860824485441536)
 
 
 ### Day 1: Jul 09, 2019
@@ -34,3 +34,11 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 **Thoughts:** Today I readed tutorials for instant search for Laravel + Vue + Ajax
 
 **Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1149160032585551872)
+
+### Day 4: Jul 12, 2019
+**Today's Progress**: I worked in events page. I've changed the project directory structure.
+
+**Thoughts:** Today I readed tutorials about blade templates:
+[Blade Templates](https://laravel.com/docs/5.6/blade)
+
+**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1149860824485441536)
