@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ### Twitter posting
-[Day 1](https://twitter.com/FabioVanderlei/status/1148431575887093763) | [Day 2](https://twitter.com/FabioVanderlei/status/1148806745512435714) | [Day 3](https://twitter.com/FabioVanderlei/status/1149160032585551872) | [Day 4](https://twitter.com/FabioVanderlei/status/1149860824485441536) | [Day 5](https://twitter.com/FabioVanderlei/status/1153534272843726848)
+[Day 1](https://twitter.com/FabioVanderlei/status/1148431575887093763) | [Day 2](https://twitter.com/FabioVanderlei/status/1148806745512435714) | [Day 3](https://twitter.com/FabioVanderlei/status/1149160032585551872) | [Day 4](https://twitter.com/FabioVanderlei/status/1149860824485441536) | [Day 5](https://twitter.com/FabioVanderlei/status/1153534272843726848) | [Day 6](https://twitter.com/FabioVanderlei/status/1153880651508133890)
 
 
 ### Day 1: Jul 09, 2019
@@ -50,3 +50,11 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 [Flex Bootstrap](https://getbootstrap.com/docs/4.0/utilities/flex/)
 
 **Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1153534272843726848)
+
+### Day 6: Jul 24, 2019
+**Today's Progress**: Today I continue I keep developing a list page.
+
+**Thoughts:** Today I readed tutorials about flex with bootstap:
+[Flex Bootstrap](https://getbootstrap.com/docs/4.0/utilities/flex/)
+
+**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1153880651508133890)
