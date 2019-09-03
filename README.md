@@ -8,53 +8,19 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ### Twitter posting
-[Day 1](https://twitter.com/FabioVanderlei/status/1148431575887093763) | [Day 2](https://twitter.com/FabioVanderlei/status/1148806745512435714) | [Day 3](https://twitter.com/FabioVanderlei/status/1149160032585551872) | [Day 4](https://twitter.com/FabioVanderlei/status/1149860824485441536) | [Day 5](https://twitter.com/FabioVanderlei/status/1153534272843726848) | [Day 6](https://twitter.com/FabioVanderlei/status/1153880651508133890)
+[Day 1 and Day 2](https://twitter.com/FabioVanderlei/status/1168377422275891201) | [Day 3](https://twitter.com/FabioVanderlei/status/1168984980661395457)
 
 
-### Day 1: Jul 09, 2019
-**Today's Progress**: I back development a Laravel project.
+### Day 1 and Day 2: Sep 01, 2019 and Sep 02, 2019
+**Today's Progress**: I studied Vue and Vuex.
 
-**Thoughts:** Today I get images from PSD file.
+**Thoughts:** I watched Youtube videos.
 
-**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1148431575887093763)
+**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1168377422275891201)
  
-### Day 2: Jul 10, 2019
-**Today's Progress**: I wrote a responsive banner to event search page.
+### Day 3: Sep 03, 2019
+**Today's Progress**: Today I continued study Vue and VueJs,
 
-**Thoughts:** Today I keep taking images from the PSD file.
+**Thoughts:** [I watched this Youtube videos](https://www.youtube.com/watch?v=BT1kKaZwPRs&list=PLFJmwzuHdBRTN93itG0UiZpqs8ZnBSeEF&index=3)
 
-**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1148806745512435714)
-
-### Day 3: Jul 11, 2019
-**Today's Progress**: I learned about instant search:
--[Instant AJAX Search with Laravel and Vue](https://pineco.de/instant-ajax-search-laravel-vue/)
--[Vue JS + Laravel instant search](https://gist.github.com/davidtrushkov/5b58f0721c8b4686316dcd57ab74b000)
--[Getting Started with Laravel Scout and Vue Instant Search](https://www.algolia.com/doc/framework-integration/laravel/tutorials/getting-started-with-laravel-scout-vuejs/)
-
-**Thoughts:** Today I readed tutorials for instant search for Laravel + Vue + Ajax
-
-**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1149160032585551872)
-
-### Day 4: Jul 12, 2019
-**Today's Progress**: I worked in events page. I've changed the project directory structure.
-
-**Thoughts:** Today I readed tutorials about blade templates:
-[Blade Templates](https://laravel.com/docs/5.6/blade)
-
-**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1149860824485441536)
-
-### Day 5: Jul 23, 2019
-**Today's Progress**: Today I went back to programming, I keep developing a list page.
-
-**Thoughts:** Today I readed tutorials about flex with bootstap:
-[Flex Bootstrap](https://getbootstrap.com/docs/4.0/utilities/flex/)
-
-**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1153534272843726848)
-
-### Day 6: Jul 24, 2019
-**Today's Progress**: Today I continue I keep developing a list page.
-
-**Thoughts:** Today I readed tutorials about flex with bootstap:
-[Flex Bootstrap](https://getbootstrap.com/docs/4.0/utilities/flex/)
-
-**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1153880651508133890)
+**Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1168984980661395457)
