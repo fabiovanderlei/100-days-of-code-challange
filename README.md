@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ### Twitter posting
-[Day 1 and Day 2](https://twitter.com/FabioVanderlei/status/1168377422275891201) | [Day 3](https://twitter.com/FabioVanderlei/status/1168984980661395457) | [Day 4 and Day 5](https://twitter.com/FabioVanderlei/status/1169987496517746690)
+[Day 1 and Day 2](https://twitter.com/FabioVanderlei/status/1168377422275891201) | [Day 3](https://twitter.com/FabioVanderlei/status/1168984980661395457) | [Day 4 and Day 5](https://twitter.com/FabioVanderlei/status/1169987496517746690) | [Day 6](https://twitter.com/FabioVanderlei/status/1170170058292834306)
 
 
 ### Day 1 and Day 2: Sep 01, 2019 and Sep 02, 2019
@@ -33,4 +33,13 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 [Vuex 2.0](https://www.youtube.com/watch?v=BT1kKaZwPRs&list=PLFJmwzuHdBRTN93itG0UiZpqs8ZnBSeEF&index=3)
 
 **Link to work:** [Log in Twitter](https://twitter.com/FabioVanderlei/status/1169987496517746690)
+
+### Day 6: Sep 06, 2019
+**Today's Progress**: Today I continued study Vue and VueJs, I develop a vuex examples;
+
+**Thoughts:** [Repo](https://github.com/fabiovanderlei/vuex-example)
+
+**Link to work:** 
+[Repo](https://github.com/fabiovanderlei/vuex-example)
+[Log in Twitter](https://twitter.com/FabioVanderlei/status/1170170058292834306)
 
