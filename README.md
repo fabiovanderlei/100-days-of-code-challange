@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ### Twitter posting
-[Day 1 and Day 2](https://twitter.com/FabioVanderlei/status/1168377422275891201) | [Day 3](https://twitter.com/FabioVanderlei/status/1168984980661395457) | [Day 4 and Day 5](https://twitter.com/FabioVanderlei/status/1169987496517746690) | [Day 6](https://twitter.com/FabioVanderlei/status/1170170058292834306) | [Day 7](https://twitter.com/FabioVanderlei/status/1171477116820414464)
+[Day 1 and Day 2](https://twitter.com/FabioVanderlei/status/1168377422275891201) | [Day 3](https://twitter.com/FabioVanderlei/status/1168984980661395457) | [Day 4 and Day 5](https://twitter.com/FabioVanderlei/status/1169987496517746690) | [Day 6](https://twitter.com/FabioVanderlei/status/1170170058292834306) | [Day 7](https://twitter.com/FabioVanderlei/status/1171477116820414464) | [Day 8](https://twitter.com/FabioVanderlei/status/1171542593374756864)
 
 
 ### Day 1 and Day 2: Sep 01, 2019 and Sep 02, 2019
@@ -51,4 +51,14 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 **Link to work:** 
 [Repo](https://github.com/fabiovanderlei/vuex-example)
 [Log in Twitter](https://twitter.com/FabioVanderlei/status/1171477116820414464)
+
+### Day 8: Sep 10, 2019
+**Today's Progress**: Today I worked in my Vuex example, look this repo:
+https://github.com/fabiovanderlei/vuex-example
+
+**Thoughts:** [Repo](https://github.com/fabiovanderlei/vuex-example)
+
+**Link to work:** 
+[Repo](https://github.com/fabiovanderlei/vuex-example)
+[Log in Twitter](https://twitter.com/FabioVanderlei/status/1171542593374756864)
 
