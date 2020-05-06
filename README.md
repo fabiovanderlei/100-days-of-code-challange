@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ### Twitter posting
-[Day 1](https://twitter.com/FabioVanderlei/status/1256947127512633345) | [Day 2](https://twitter.com/FabioVanderlei/status/1257528853033082887) | 
+[Day 1](https://twitter.com/FabioVanderlei/status/1256947127512633345) | [Day 2](https://twitter.com/FabioVanderlei/status/1257528853033082887) | [Day 3](https://twitter.com/FabioVanderlei/status/1257865958770835459)
 
  
 ### Day 1: May 03, 2020
@@ -31,3 +31,15 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 - [React Docs](https://reactjs.org/docs/getting-started.html)
 - [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
 - [Three important points](https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c)
+
+### Day 3: May 05, 2020
+**Today's Progress:** Today I keeped reading the React and Redux.
+
+**Thoughts:** I needed to understand Redux so I readed about this.
+
+**Link to work:** 
+
+- [React Docs](https://reactjs.org/docs/getting-started.html)
+- [Redux](https://redux.js.org/)
+- [Redux em 5 minutos](https://www.youtube.com/watch?v=Bg0xlUYAp0c)
+- [Desvendando o Redux na prática](https://www.youtube.com/watch?v=u99tNt3TZf8)
