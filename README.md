@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ### Twitter posting
-[Day 1](https://twitter.com/FabioVanderlei/status/1256947127512633345) | [Day 2](https://twitter.com/FabioVanderlei/status/1257528853033082887) | [Day 3](https://twitter.com/FabioVanderlei/status/1257865958770835459)
+[Day 1](https://twitter.com/FabioVanderlei/status/1256947127512633345) | [Day 2](https://twitter.com/FabioVanderlei/status/1257528853033082887) | [Day 3](https://twitter.com/FabioVanderlei/status/1257865958770835459) | [Day 4 and Day 5](https://twitter.com/FabioVanderlei/status/1258722991124484097)
 
  
 ### Day 1: May 03, 2020
@@ -43,3 +43,17 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 - [Redux](https://redux.js.org/)
 - [Redux em 5 minutos](https://www.youtube.com/watch?v=Bg0xlUYAp0c)
 - [Desvendando o Redux na prática](https://www.youtube.com/watch?v=u99tNt3TZf8)
+
+### Day 4 and Day 5: May 06, 2020 and May 07, 2020
+**Today's Progress:** I readed Redux and Router docs.
+-  [Redux Examples](https://redux.js.org/introduction/examples)
+- [React Router Docs](https://reacttraining.com/react-router/web/guides/quick-start)
+
+**Thoughts:** I needed to understant Redux, so I created a new project to explain React and Redux
+
+**Link to work:** 
+- [Counter (Contador)](https://github.com/fabiovanderleisouza/contador-react-redux)
+
+
+
+
