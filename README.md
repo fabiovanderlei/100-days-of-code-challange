@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ## Twitter posting
-[Day 1](https://twitter.com/FabioVanderlei/status/1256947127512633345) | [Day 2](https://twitter.com/FabioVanderlei/status/1257528853033082887) | [Day 3](https://twitter.com/FabioVanderlei/status/1257865958770835459) | [Day 4 and Day 5](https://twitter.com/FabioVanderlei/status/1258722991124484097) | [Day 6] (https://twitter.com/FabioVanderlei/status/1258949635986595840) | 
+[Day 1](https://twitter.com/FabioVanderlei/status/1256947127512633345) | [Day 2](https://twitter.com/FabioVanderlei/status/1257528853033082887) | [Day 3](https://twitter.com/FabioVanderlei/status/1257865958770835459) | [Day 4 and Day 5](https://twitter.com/FabioVanderlei/status/1258722991124484097) | [Day 6] (https://twitter.com/FabioVanderlei/status/1258949635986595840) | [Day 7](https://twitter.com/FabioVanderlei/status/1259416265476714496)
 
  
 ### Day 1: May 03, 2020
@@ -62,6 +62,14 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 **Link to work:** 
 - [TodoMVC](https://redux.js.org/introduction/examples#todomvc)
 
+### Day 7: May 09, 2020
+**Today's Progress:** I'm writing a todo app with TodoMVC styles.
 
+**Thoughts:** My Redux understandings is improving, it`s fun :)
+
+**Link to work:** 
+
+- [TodoMVC](https://redux.js.org/introduction/examples#todomvc)
+- [TodoAppExample](https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/todomvc?from-embed=&file=/src/actions/index.js)
 
 
