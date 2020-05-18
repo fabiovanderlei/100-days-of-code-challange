@@ -8,7 +8,7 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 ## 100 Days Of Code Challenge - Log
 
 ## Twitter posting
-[Day 1](https://twitter.com/FabioVanderlei/status/1256947127512633345) | [Day 2](https://twitter.com/FabioVanderlei/status/1257528853033082887) | [Day 3](https://twitter.com/FabioVanderlei/status/1257865958770835459) | [Day 4 and Day 5](https://twitter.com/FabioVanderlei/status/1258722991124484097) | [Day 6] (https://twitter.com/FabioVanderlei/status/1258949635986595840) | [Day 7](https://twitter.com/FabioVanderlei/status/1259416265476714496)
+[Day 1](https://twitter.com/FabioVanderlei/status/1256947127512633345) | [Day 2](https://twitter.com/FabioVanderlei/status/1257528853033082887) | [Day 3](https://twitter.com/FabioVanderlei/status/1257865958770835459) | [Day 4 and Day 5](https://twitter.com/FabioVanderlei/status/1258722991124484097) | [Day 6] (https://twitter.com/FabioVanderlei/status/1258949635986595840) | [Day 7](https://twitter.com/FabioVanderlei/status/1259416265476714496) | [Day 8](https://twitter.com/FabioVanderlei/status/1262349158914154497) | [Day 9]()
 
  
 ### Day 1: May 03, 2020
@@ -72,4 +72,24 @@ I have accepted the # 100DaysOfCode Challenge that I will code at least one hour
 - [TodoMVC](https://redux.js.org/introduction/examples#todomvc)
 - [TodoAppExample](https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/todomvc?from-embed=&file=/src/actions/index.js)
 
+### Day 8: May 18, 2020
+**Today's Progress:** I'm writing the tests to my todo app
+
+**Thoughts:** The tests helps me to understand reducers and action, I'm learning a lot!
+
+**Link to work:** 
+
+- [TodoMVC Example](https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/todomvc?from-embed=&file=/src/reducers/todos.spec.js:0-77)
+
+
+<!--(8/100) 
+I'm writing the tests to my todo app.
+
+The tests helps me to understand reducers and action, I'm learning a lot!
+
+Links:
+- TodoMVC Example https://codesandbox.io/s/github/reduxjs/redux/tree/master/examples/todomvc?from-embed=&file=/src/reducers/todos.spec.js:0-77
+
+#100DiasDeCodigo 
+#100DaysOfCode-->
 
